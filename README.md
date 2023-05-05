@@ -1,43 +1,32 @@
-### Leetcode Problems
+# Leetcode Problems
 
-This directory contains solutions to various problems on Leetcode.
+This repository contains my solutions for problems on LeetCode. The solutions are written in various programming languages such as Python, Java, and C++.
 
-### Table of Contents
-- Problem 1
-- Problem 2
-- Problem 3
+## Table of Contents
+- Getting Started
+- Contributing
+- License
 
-### Problem 1
-Description of the problem goes here. Include a brief explanation of the problem and any relevant details.
+## Getting Started
+To use this repository, simply clone or download it to your local machine.
 
-**Solution**
-Explanation of the solution goes here. Include code snippets and any other relevant information.
+git clone https://github.com/farzanekram07/leetcode.git 
 
-**Complexity Analysis**
-Explanation of the time and space complexity of the solution goes here.
+Once you have the repository, navigate to the problem you wish to view and select the solution written in your preferred programming language.
+- cd leetcode
+- cd [problem] 
 
-### Problem 2
-Description of the problem goes here. Include a brief explanation of the problem and any relevant details.
+Or, Run it on https://leetcode.com
 
-**Solution**
-Explanation of the solution goes here. Include code snippets and any other relevant information.
+## Prerequisites
+To run the solutions, you will need to have the appropriate programming language installed on your machine.
 
-**Complexity Analysis**
-Explanation of the time and space complexity of the solution goes here.
+- Python 3.6 or later
+- Java 8 or later
+- C++ 11 or later
 
-### Problem 3
-Description of the problem goes here. Include a brief explanation of the problem and any relevant details.
-
-**Solution**
-Explanation of the solution goes here. Include code snippets and any other relevant information.
-
-**Complexity Analysis**
-Explanation of the time and space complexity of the solution goes here.
-
-### Contributing
-If you'd like to contribute to this project, feel free to open a pull request or issue.
+## Contributing
+If you would like to contribute to this repository, feel free to submit a pull request. Please ensure that your code adheres to the LeetCode problem requirements and includes appropriate comments and explanations.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-Feel free to modify this template as per your needs. This README file provides a basic structure for organizing and documenting solutions to Leetcode problems. Make sure to include detailed explanations and code snippets for each solution, as well as a brief overview of the problem and any relevant details. Don't forget to include a license and a contributing section if applicable.
+This project is licensed under the MIT License - see the LICENSE file for details.
