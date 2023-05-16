@@ -6,7 +6,6 @@ This repository contains my solutions for problems on LeetCode. The solutions ar
 - Getting Started
 - Contributing
 - License
----
 
 ## Getting Started
 To use this repository, simply clone or download it to your local machine.
